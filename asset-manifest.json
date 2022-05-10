@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/Mobile-React-Store/static/css/main.73e9cc24.css",
+    "main.css": "/Mobile-React-Store/static/css/main.daf17d26.css",
     "main.js": "/Mobile-React-Store/static/js/main.c0baa560.js",
-    "static/media/background.jpg": "/Mobile-React-Store/static/media/background.5f014be5679ef69c4349.jpg",
     "static/media/github-brands.svg": "/Mobile-React-Store/static/media/github-brands.45a5f4c7412fa45fdbbcfbc1bff04f35.svg",
     "index.html": "/Mobile-React-Store/index.html",
-    "main.73e9cc24.css.map": "/Mobile-React-Store/static/css/main.73e9cc24.css.map",
+    "main.daf17d26.css.map": "/Mobile-React-Store/static/css/main.daf17d26.css.map",
     "main.c0baa560.js.map": "/Mobile-React-Store/static/js/main.c0baa560.js.map"
   },
   "entrypoints": [
-    "static/css/main.73e9cc24.css",
+    "static/css/main.daf17d26.css",
     "static/js/main.c0baa560.js"
   ]
 }
