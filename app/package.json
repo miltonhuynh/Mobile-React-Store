@@ -1,7 +1,7 @@
 {
   "name": "app",
   "version": "0.1.0",
-  "homepage": "https://miltonhuynh.github.io/React-Store/",
+  "homepage": "https://miltonhuynh.github.io/Mobile-React-Store/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
