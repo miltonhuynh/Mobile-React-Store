@@ -31,9 +31,6 @@ export default function HeaderFooter(props) {
         </div>
       </div>
       {props.children}
-      <div id="Footer_container">
-        <div id="Created_by">Created by Milton Huynh using React</div>
-      </div>
     </>
   )
 }
