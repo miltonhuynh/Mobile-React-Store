@@ -15,9 +15,9 @@ root.render(
     <Routes>
       <Route path="/Mobile-React-Store" element={<App />}>
           <Route index element={<ProductPage />} />
-          <Route path="/React-Store/ProductDetails/:id" element={<ProductDetails />} />
-          <Route path="/React-Store/Cart" element={<Cart />} />
-          <Route path="/React-Store/Checkout" element={<Checkout />} />
+          <Route path="/Mobile-React-Store/ProductDetails/:id" element={<ProductDetails />} />
+          <Route path="/Mobile-React-Store/Cart" element={<Cart />} />
+          <Route path="/Mobile-React-Store/Checkout" element={<Checkout />} />
       </Route>
     </Routes>
   </BrowserRouter>
