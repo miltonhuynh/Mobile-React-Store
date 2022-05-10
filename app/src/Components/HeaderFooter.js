@@ -10,13 +10,13 @@ export default function HeaderFooter(props) {
 
   let navigate = useNavigate();
   function goHome () {
-    navigate("/React-Store", { replace: true });
+    navigate("/Mobile-React-Store", { replace: true });
   }
   function goCart () {
-    navigate("/React-Store/Cart", { replace: true });
+    navigate("/Mobile-React-Store/Cart", { replace: true });
   }
   function goCheckout () {
-    navigate("/React-Store/Checkout", { replace: true });
+    navigate("/Mobile-React-Store/Checkout", { replace: true });
   }
 
   return (
