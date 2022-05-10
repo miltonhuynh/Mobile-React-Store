@@ -21,7 +21,7 @@ html,body {
   padding: 0px;
   overflow-x: hidden;
   scroll-behavior: smooth;
-  background-color: black;
+  background-color: rgb(1, 221, 255);
 }
 
 #Loading {
@@ -78,11 +78,7 @@ html,body {
 }
 
 #Page_container {
-  background-image: url("../images/background.jpg");
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: rgb(1, 221, 255);
   padding-top: 5rem;
 }
 
@@ -386,15 +382,6 @@ html,body {
   height: 2.5rem;
   width: 12rem;
   font-size: 1.6rem;
-}
-
-#Footer_container {
-  background-color: black;
-  color: white;
-  height: 10vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 #Created_by {
