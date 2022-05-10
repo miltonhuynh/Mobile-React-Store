@@ -13,7 +13,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/React-Store" element={<App />}>
+      <Route path="/Mobile-React-Store" element={<App />}>
           <Route index element={<ProductPage />} />
           <Route path="/React-Store/ProductDetails/:id" element={<ProductDetails />} />
           <Route path="/React-Store/Cart" element={<Cart />} />
