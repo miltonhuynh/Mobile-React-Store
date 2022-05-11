@@ -1,3 +1,3 @@
-React final project
+# React final project - Fake API store
 
-https://miltonhuynh.github.io/React-Store/
+Deployment: https://miltonhuynh.github.io/Mobile-React-Store/
