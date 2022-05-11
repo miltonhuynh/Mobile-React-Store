@@ -23,7 +23,7 @@ export default function HeaderFooter(props) {
   return (
     <>
       <div id="Header">
-        <div id="Brand" onClick={goHome}>The React Store</div>
+        <div id="Brand" onClick={goHome}>The React Store<br/>Mobile Version</div>
         <div>
           <a href="https://miltonhuynh.github.io/React-Store/">
             <FontAwesomeIcon icon={faDesktop} id="Mobile-icon"/>

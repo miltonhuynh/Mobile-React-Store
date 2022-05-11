@@ -86,11 +86,6 @@ html,body {
   top: 0.2rem;
 }
 
-#Mobile-icon:hover {
-  transform: translateY(-0.5rem);
-}
-
-
 #Page_container {
   background-color: rgb(1, 221, 255);
   padding-top: 5rem;
@@ -147,11 +142,12 @@ html,body {
   display: flex;
   background-color: rgba(0, 0, 0, 0.25);
   border-radius: 2%;
-  width: 90vw;
-  height: 40vh;
+  width: 80vw;
+  height: 25vh;
   padding: 1rem;
   margin: 1rem;
   cursor: pointer;
+  box-shadow: 5px 5px 10px black;
 }
 
 #Item_title-price {
@@ -163,17 +159,20 @@ html,body {
 
 #Card_images {
   border-radius: 5%;
-  max-width: 50%;
+  max-width: 40%;
+  max-height: 80%;
+  position: relative;
+  top: 1rem;
 }
 
 #Card_titles {
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: white;
   font-family: 'Julius Sans One', sans-serif;
 }
 
 #Card_prices {
-  font-size: 3rem;
+  font-size: 2rem;
   color: white;
   font-family: 'Zen Loop', cursive;
 }
@@ -181,7 +180,7 @@ html,body {
 #Card_ratings {
   color: white;
   font-family: 'Bungee', cursive;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 #Details_page {
